@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class template {
 
@@ -11,6 +11,5 @@ public class template {
      * @studyEndDate 2022-10-11
      */
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
     }
 }
